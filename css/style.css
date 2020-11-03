@@ -1,0 +1,78 @@
+*{
+  margin: 0;
+}
+
+.container{
+  width: 100%;
+  height: 800px;
+  background-image: url("../img/background.jpg");
+}
+
+header{
+  padding-top: 10px;
+  border-bottom: 2px solid white;
+  width: 70%;
+  margin: 0 auto;
+  color: white;
+  font-size: 30px;
+}
+
+img{
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+
+.input-text{
+  width: 70%;
+  margin: 0 auto;
+  color: white;
+  font-size: 30px;
+}
+
+.unreads{
+  padding: 10px 0;
+}
+
+#number{
+  background-color: orange;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.mails-box{
+  border-top: 2px solid lightgrey;
+  border-bottom: 2px solid lightgrey;
+  width: 70%;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.box{
+  border: 2px solid black;
+}
+
+.b-one, .b-three, .b-four{
+  background-color: lightgrey;
+}
+
+.b-two{
+  background-color: white;
+}
+
+.mail-text{
+  color: grey;
+}
+
+footer{
+  color: white;
+  text-align: center;
+}
+
+.f-one{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.f-two{
+  font-style: italic;
+}
